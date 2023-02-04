@@ -1,0 +1,2 @@
+module VeterinarioHelper
+end
